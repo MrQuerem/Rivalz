@@ -58,7 +58,7 @@ Açılan pencerede "Install" butonuna bas
 
 
 
-Açılan pencerede 1 numaradaki "I accept the license terms" seçeneğini işaretle
+Açılan pencerede 1 numaradaki "I accept the license terms" seçeneğini işaretle,
 
 "Next" butonuna tıkla,
 
@@ -145,7 +145,7 @@ Küçük harf/Büyük harf ve rakamlardan oluşan 8 haneli şifre belirle ve "Fi
 ![18](https://github.com/MrQuerem/Rivalz/assets/172882082/cc4067a4-3720-4976-977c-2963f1139263)
 
 
-Windows kilit ekranı açılacak, sağ alttaki "Ctrl+Alt+Del" butonuna tıklayarak ve masaüstüne geçiş yapın.
+Windows kilit ekranı açılacak, sağ alttaki "Ctrl+Alt+Del" butonuna tıklayarak ve masaüstüne geçiş yap.
 ![19](https://github.com/MrQuerem/Rivalz/assets/172882082/8b572fd4-17c2-476b-82b1-7f36d68aaa01)
 
 
@@ -197,7 +197,7 @@ Windows logo'suna sağ tıkla ve Device Manager aç.
 
 Açılan "Device Manage" penceresinde güncellenmesi gereken 4 adet sürücü göreceksin.
 
-Güncelleme adımları  her 4 sürücü için aynı olacak. lk olarak "Ethernet Conrtoller" sürücüsünü güncelliyoruz.
+Güncelleme adımları  her 4 sürücü için aynı olacak. lk olarak "Ethernet Conrtoller" sürücüsünü güncelleştirmek gerekiyor.
 
 1-) "Ethernet Controller" sürücüsüne sağ tıkla,
 
@@ -222,7 +222,7 @@ Açılan pencerede "Next" butonuna bas,
 ![29](https://github.com/MrQuerem/Rivalz/assets/172882082/831846ed-314a-42fe-b656-8c6444f400ab)
 
 
-Sağ tarafta açılan mavi renkli pencerede "Yes" butonuna bas.
+Sağ tarafta açılan mavi renkli pencerede "Yes" butonuna bas. (bu pencere sadece bu sürücüde çıkacak, diğer sürücülerde çıkmayacak)
 ![30](https://github.com/MrQuerem/Rivalz/assets/172882082/203be9fa-7ced-4f26-a366-7d8080d323a0)
 
 
@@ -255,7 +255,7 @@ Bazı uyarı pencereleri çıkacak, sabırla hepsini kapat,
 
 Microsoft Edge tarayıcısı otomatik olarak açılacağı için İnternet Explorer'i kapatabilirsin. 
 
-Microsoft Edge ddres çubuğuna "rivalz ai" yazıp enter'e bas,
+Microsoft Edge adres çubuğuna "rivalz ai" yazıp enter'e bas,
 ![36](https://github.com/MrQuerem/Rivalz/assets/172882082/bfa9476c-1e4c-4732-836d-cdbacde0a786)
 
 
@@ -276,10 +276,6 @@ Açılan sayfada For Windows için DOWNLOAD RCLIENT butonuna bas ve dosyanın in
 Dosya inince tarayıcının sağ üstünde Downloads bilgi kutucuğu açılacak ve inen dosyayı orada göreceksin.
 
 İnen dosyaya tıkla ve Rivalz Client'in kurulumunu bekle.
-![40](https://github.com/MrQuerem/Rivalz/assets/172882082/8ef96b53-f049-4bff-91b6-1ac756b0b423)
-
-
-
 
 Kurulum tamamlanınca client uygulaması açılacak.
 ![41](https://github.com/MrQuerem/Rivalz/assets/172882082/af9d1b12-d9b1-4249-a55c-17dc79cb2a31)
@@ -300,7 +296,7 @@ Kurulum tamamlanınca client uygulaması açılacak.
 ![41](https://github.com/MrQuerem/Rivalz/assets/172882082/9c91f6e6-5cf4-446a-b3ce-657e5de95d68)
 
 
-Ana PC'de [Rivalz Ai sitesine(https://rivalz.ai/dashboard) git,
+Ana PC'de [Rivalz Ai sitesine](https://rivalz.ai/dashboard) git,
 
 1-) MY CLIENT butonuna tıkla,
 
