@@ -125,11 +125,12 @@ Windows'un kurulmasını bekle.
 ![17](https://github.com/MrQuerem/Rivalz/assets/172882082/8e2773b5-feac-4620-8667-bf1e622c88e7)
 
 
-Windows kurulduktan sonra şifre belirleme penceresi açılacak. Kullanıcı adı
+Windows kurulduktan sonra şifre belirleme penceresi açılacak.
 
-"Administrator" kalıyor, değiştiremiyoruz.
+Kullanıcı adı "Administrator" kalıyor, değiştiremiyoruz.
 
 Küçük harf/Büyük harf ve rakamlardan oluşan 8 haneli şifre belirle ve "Next" butonuna bas.
 ![18](https://github.com/MrQuerem/Rivalz/assets/172882082/cc4067a4-3720-4976-977c-2963f1139263)
+
 
 
