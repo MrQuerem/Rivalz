@@ -148,7 +148,8 @@ Küçük harf/Büyük harf ve rakamlardan oluşan 8 haneli şifre belirle ve "Fi
 
 
 Windows kilit ekranı açılacak, sağ alttaki "Ctrl+Alt+Del" butonuna tıklayarak ve masaüstüne geçiş yapın.
-![19](https://github.com/MrQuerem/Rivalz/assets/172882082/fd8f1b21-8b20-4721-bd5e-d0439648d518)
+![19](https://github.com/MrQuerem/Rivalz/assets/172882082/8b572fd4-17c2-476b-82b1-7f36d68aaa01)
+
 
 Masaüstü açılış ekranına şifreni yazıp giriş sağla.
 ![20](https://github.com/MrQuerem/Rivalz/assets/172882082/e0d61480-caa5-4116-946d-1b6f05038fbb)
@@ -276,7 +277,13 @@ Açılan sayfada For Windows için DOWNLOAD RCLIENT butonuna bas ve dosyanın in
 
 Dosya inince tarayıcının sağ üstünde Downloads bilgi kutucuğu açılacak ve inen dosyayı orada göreceksin.
 
-İnen dosyaya tıkla ve Rivalz Client'in kurulumunu bekle. Kurulum tamamlanınca client uygulaması açılacak.
+İnen dosyaya tıkla ve Rivalz Client'in kurulumunu bekle.
+![40](https://github.com/MrQuerem/Rivalz/assets/172882082/8ef96b53-f049-4bff-91b6-1ac756b0b423)
+
+
+
+
+Kurulum tamamlanınca client uygulaması açılacak.
 ![41](https://github.com/MrQuerem/Rivalz/assets/172882082/af9d1b12-d9b1-4249-a55c-17dc79cb2a31)
 
 
@@ -295,5 +302,24 @@ Dosya inince tarayıcının sağ üstünde Downloads bilgi kutucuğu açılacak 
 ![41](https://github.com/MrQuerem/Rivalz/assets/172882082/9c91f6e6-5cf4-446a-b3ce-657e5de95d68)
 
 
+Ana PC'de [Rivalz Ai sitesine(https://rivalz.ai/dashboard) git,
+
+1-) MY CLIENT butonuna tıkla,
+
+2-) VALIDATE butonuna tıkla,
+![42](https://github.com/MrQuerem/Rivalz/assets/172882082/f95a3da3-ffad-4d3a-8397-5bf7e35c5a94)
+
+
+
+Açılan pencerede VALIDATE butonuna tıkla,
+![43](https://github.com/MrQuerem/Rivalz/assets/172882082/4bedc65f-68e6-429d-b3c4-0e58f89cc9bd)
+
+
+Artık hazırsın, hayırlı olsun.
+![44](https://github.com/MrQuerem/Rivalz/assets/172882082/857e3c68-6b96-45cd-8092-6a25741db3df)
+
+
+Not: Hetzner sunucu console penceresini kapatabilirsin. Tekrar açmak istersen aşağıdaki resimde gösterlen adımları uygulayarak console penceresini açabilirsin.
+![45](https://github.com/MrQuerem/Rivalz/assets/172882082/211ca0a6-5e9d-4965-8e69-11f624146578)
 
 
