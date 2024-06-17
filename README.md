@@ -13,9 +13,9 @@ NFT mint  Post like gibi sosyal görevler falan olabiliyor, takip et.
 # Node Kurulum
 Kurulumu Hetzner'e göre anlatıyorum.
 
-En düşük özellikli sunucuda kurabilirsiniz ama sunucunuz ne kadar güçlüyse o kadar çok puan kazanırsınız.
+En düşük özellikli sunucuda kurabilirsin ama sunucunuz ne kadar güçlüyse o kadar çok puan kazanırsın.
 
-Ayrıca dilediğiniz sayıda node çalıştırabilirsiniz.
+Ayrıca dilediğin sayıda node çalıştırabilirsin.
 
 
 # Sunucuya Windows Kuruyoruz
