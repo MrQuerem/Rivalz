@@ -229,7 +229,7 @@ Sağ tarafta açılan mavi renkli pencerede "Yes" butonuna bas. (bu pencere sade
 "Ethernet Controller" sürücü güncelleme işlemleri bitti, pencereyi kapatmak için "Close" butonuna basıyoruz.
 ![31](https://github.com/MrQuerem/Rivalz/assets/172882082/2574c9f6-dca1-46e8-bf25-15c80f49f945)
 
-Not: Kalan diğer 3 adet sürücüleri güncellemek için aynı adımları uygula.
+Not: Kalan diğer 3 adet sürücüleri güncellemek için aynı adımları uygula. Sürücü güncellemeleri bittikten sonra "Device Manager" penceresini kapatabilirsin.
 
 
 # Sunucuya Rivalz Client Kurulumu
@@ -268,12 +268,16 @@ Sitede sağ üstte 3 çizgi'ye tıkla,
 
 
 Sayfanın aşağısındaki "Download"a tıkla,
-![39](https://github.com/MrQuerem/Rivalz/assets/172882082/0e884a86-1baf-4203-bea0-e125484e898d)
+![39](https://github.com/MrQuerem/Rivalz/assets/172882082/5c58872d-e80d-48e6-b546-6d8e7beb4443)
+
 
 
 Açılan sayfada For Windows için DOWNLOAD RCLIENT butonuna bas ve dosyanın inmesini bekle,
 
 Dosya inince tarayıcının sağ üstünde Downloads bilgi kutucuğu açılacak ve inen dosyayı orada göreceksin.
+![40](https://github.com/MrQuerem/Rivalz/assets/172882082/05679425-4253-4a9e-8200-ad55581bdf67)
+
+
 
 İnen dosyaya tıkla ve Rivalz Client'in kurulumunu bekle.
 
@@ -293,7 +297,6 @@ Kurulum tamamlanınca client uygulaması açılacak.
 4-) "SAVE" butonuna tıkla,
 
 5-) Node'un çalışması için Start butonuna tıkla.
-![41](https://github.com/MrQuerem/Rivalz/assets/172882082/9c91f6e6-5cf4-446a-b3ce-657e5de95d68)
 
 
 Ana PC'de [Rivalz Ai sitesine](https://rivalz.ai/dashboard) git,
