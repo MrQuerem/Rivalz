@@ -275,15 +275,15 @@ Sayfanın aşağısındaki "Download"a tıkla,
 Açılan sayfada For Windows için DOWNLOAD RCLIENT butonuna bas ve dosyanın inmesini bekle,
 
 Dosya inince tarayıcının sağ üstünde Downloads bilgi kutucuğu açılacak ve inen dosyayı orada göreceksin.
-![40](https://github.com/MrQuerem/Rivalz/assets/172882082/05679425-4253-4a9e-8200-ad55581bdf67)
-
-
 
 İnen dosyaya tıkla ve Rivalz Client'in kurulumunu bekle.
 
-Kurulum tamamlanınca client uygulaması açılacak.
-![41](https://github.com/MrQuerem/Rivalz/assets/172882082/af9d1b12-d9b1-4249-a55c-17dc79cb2a31)
+![40](https://github.com/MrQuerem/Rivalz/assets/172882082/05679425-4253-4a9e-8200-ad55581bdf67)
 
+
+# Node'u Çalıştıralım
+
+Kurulum tamamlanınca client uygulaması açılacak.
 
 Şimdi sırasıyla,
 
@@ -297,6 +297,10 @@ Kurulum tamamlanınca client uygulaması açılacak.
 4-) "SAVE" butonuna tıkla,
 
 5-) Node'un çalışması için Start butonuna tıkla.
+![41](https://github.com/MrQuerem/Rivalz/assets/172882082/af9d1b12-d9b1-4249-a55c-17dc79cb2a31)
+
+
+
 
 
 Ana PC'de [Rivalz Ai sitesine](https://rivalz.ai/dashboard) git,
