@@ -1,18 +1,21 @@
 # Rivalz
 Teşvikli Rivalz Node Kurulumu
 
-# Öncelikle Rivalz hesabı oluşturup, node için hazırlıklı olalım.
-[Buradan](https://rivalz.ai?r=motleyhuman)  hesap oluşturalım.
+# Öncelikle Ana PC'de Rivalz hesabı oluşturup, node için hazırlıklı ol.
+[Buradan](https://rivalz.ai?r=motleyhuman)  hesap oluştur.
 
-EVM cüzdanı, DC ve X hesaplarını bağlayalım. Siteyi kurcalayıp biraz bilgi sahibi ol.
+EVM cüzdanı, DC ve X hesaplarını bağla. Siteyi kurcalayıp biraz bilgi sahibi ol.
 
-NFT mint  Post like gibi sosyal görevler falan olabiliyor, takip edelim.
-
-
+NFT mint  Post like gibi sosyal görevler falan olabiliyor, takip et.
 
 
+
+# Node Kurulum
 Kurulumu Hetzner'e göre anlatıyorum.
+
 En düşük özellikli sunucuda kurabilirsiniz ama sunucunuz ne kadar güçlüyse o kadar çok puan kazanırsınız.
+
+Ayrıca dilediğiniz sayıda node çalıştırabilirsiniz.
 
 
 # Sunucuya Windows Kuruyoruz
@@ -228,6 +231,69 @@ Sağ tarafta açılan mavi renkli pencerede "Yes" butonuna bas.
 ![31](https://github.com/MrQuerem/Rivalz/assets/172882082/2574c9f6-dca1-46e8-bf25-15c80f49f945)
 
 Not: Kalan diğer 3 adet sürücüleri güncellemek için aynı adımları uygula.
+
+
+# Sunucuya Rivalz Client Kurulumu
+
+Öncelikle Microsoft Edge tarayıcısını indirip kurmalıyız, bunun için,
+
+1-) Görev çubuğunda bulunan "İnternet Explorer" simgesine tıklayarak tarayıcıyı aç,
+
+2-) Tarayıcı penceresindeki adres çubuğuna "microsoft edge" yaz ve enter tuşuna bas,
+
+3-) Resimde, 3 numaralı kutuda işaretlenen web adresine tıkla ve gir,
+![34](https://github.com/MrQuerem/Rivalz/assets/172882082/c9655f3c-e5f0-425b-8313-d9873961a296)
+
+
+
+Açılan pencerede "Accept and download" butonuna tıkla,
+
+Bazı uyarı pencereleri çıkacak, sabırla hepsini kapat,
+
+İndirme işlemi tamamlanınca, aşağıda çıkan "Run" butonu basarak kurulum işlemini başlat.
+![35](https://github.com/MrQuerem/Rivalz/assets/172882082/4dff40f1-edd8-404f-854e-25037773979f)
+
+
+Microsoft Edge tarayıcısı otomatik olarak açılacağı için İnternet Explorer'i kapatabilirsin. 
+
+Microsoft Edge ddres çubuğuna "rivalz ai" yazıp enter'e bas,
+![36](https://github.com/MrQuerem/Rivalz/assets/172882082/bfa9476c-1e4c-4732-836d-cdbacde0a786)
+
+
+Rivalz Ai sitesi en üst satırda çıkması lazım. Siteye gir,
+![37](https://github.com/MrQuerem/Rivalz/assets/172882082/ef4cba1d-e9b2-4e2e-9fa3-4b23f1b77bcd)
+
+
+Sitede sağ üstte 3 çizgi'ye tıkla,
+![38](https://github.com/MrQuerem/Rivalz/assets/172882082/99cb144d-e6c7-44e0-8ced-d04c4e5e2211)
+
+
+Sayfanın aşağısındaki "Download"a tıkla,
+![39](https://github.com/MrQuerem/Rivalz/assets/172882082/0e884a86-1baf-4203-bea0-e125484e898d)
+
+
+Açılan sayfada For Windows için DOWNLOAD RCLIENT butonuna bas ve dosyanın inmesini bekle,
+
+Dosya inince tarayıcının sağ üstünde Downloads bilgi kutucuğu açılacak ve inen dosyayı orada göreceksin.
+
+İnen dosyaya tıkla ve Rivalz Client'in kurulumunu bekle. Kurulum tamamlanınca client uygulaması açılacak.
+![41](https://github.com/MrQuerem/Rivalz/assets/172882082/af9d1b12-d9b1-4249-a55c-17dc79cb2a31)
+
+
+Şimdi sırasıyla,
+
+1-) STORAGE CONTROL butonuna bas,
+
+2-) Açılan küçük penceredeki "Allocated" alanına, HDD Free Space alınında belirtilen boş oranını yaz.
+(her ihtimale karşı 1GB düşük yaz) 
+
+3-) Add Wallet alanına EVM (metamask) adresini yaz,
+
+4-) "SAVE" butonuna tıkla,
+
+5-) Node'un çalışması için Start butonuna tıkla.
+![41](https://github.com/MrQuerem/Rivalz/assets/172882082/9c91f6e6-5cf4-446a-b3ce-657e5de95d68)
+
 
 
 
