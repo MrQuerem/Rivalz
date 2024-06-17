@@ -84,8 +84,6 @@ Hetzner sunucu paneline geri dön,
 2-) Arama kutusuna "virtio" yazıp "enter" bas,
 
 3-) virtio-win-0.1.240.iso satırında "Mount" butonuna tıkla,
-
-4-) 4 numaradaki "Console" ikonuna tıkla.
 ![8](https://github.com/MrQuerem/Rivalz/assets/172882082/79ad5781-7a69-48ca-a935-7281a3787ddb)
 
 
