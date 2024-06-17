@@ -227,9 +227,10 @@ Sağ tarafta açılan mavi renkli pencerede "Yes" butonuna bas. (bu pencere sade
 
 
 "Ethernet Controller" sürücü güncelleme işlemleri bitti, pencereyi kapatmak için "Close" butonuna basıyoruz.
-![31](https://github.com/MrQuerem/Rivalz/assets/172882082/2574c9f6-dca1-46e8-bf25-15c80f49f945)
 
 Not: Kalan diğer 3 adet sürücüleri güncellemek için aynı adımları uygula. Sürücü güncellemeleri bittikten sonra "Device Manager" penceresini kapatabilirsin.
+![31](https://github.com/MrQuerem/Rivalz/assets/172882082/2574c9f6-dca1-46e8-bf25-15c80f49f945)
+
 
 
 # Sunucuya Rivalz Client Kurulumu
@@ -301,7 +302,7 @@ Kurulum tamamlanınca client uygulaması açılacak.
 
 
 
-
+# Validate İşlemleri
 
 Ana PC'de [Rivalz Ai sitesine](https://rivalz.ai/dashboard) git,
 
